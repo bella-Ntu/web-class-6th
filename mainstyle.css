@@ -1,0 +1,14 @@
+body {
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sectionstyle {
+    float: left;
+    margin-left: 5px;
+    width: 48%;
+}
+
+button {
+    background-color: aquamarine;
+}
